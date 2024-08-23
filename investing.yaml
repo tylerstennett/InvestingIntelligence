@@ -1,0 +1,16 @@
+name: ml-proj
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - statsmodels
+  - scikit-learn
+  - tensorflow
+  - matplotlib
+  - jupyter
+  - pip
+  - keras
+  - seaborn
