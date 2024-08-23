@@ -1,6 +1,6 @@
-# InvestingIntelligence
+# TradingIntelligence
 
-**InvestingIntelligence** is a quick and simple repository used for testing different machine learning models on 
+**TradingIntelligence** is a quick and simple repository used for testing different machine learning models on 
 stock market data with the purpose of predicting short-term stock price changes.
 
 ## Dataset
